@@ -4,10 +4,6 @@
 EmoVoiceMirror
 </h1>
 
+## [DEMO1] VMagicMirrorに命を吹き込む Pythonと Style-Bert-VITS2で リアルタイム感情表現
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">一文ごとに感情を指定して<br>モーションを付与させました<br>やはりモーションがあった方がいいですね！！！ <a href="https://t.co/RvZnlMzEyt">pic.twitter.com/RvZnlMzEyt</a></p>&mdash; Maki@Sunwood AI Labs. (@hAru_mAki_ch) <a href="https://twitter.com/hAru_mAki_ch/status/1756613852463296787?ref_src=twsrc%5Etfw">February 11, 2024</a></blockquote> 
-
-
-
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs6gSGckhTQ?si=7AYel8ppbrly_KqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
